@@ -1,7 +1,7 @@
 # ROOKIE_HACKERS_Omega5.0
 # BigBasket Clone🛒
 
-Welcome to BigBasket Lite, a responsive web application designed to simulate a seamless online grocery shopping experience. Built with a modern tech stack, this project focuses on user-centric features like smart cart recommendations, in-cart subscriptions, and one-click reordering to make grocery shopping fast and intuitive.
+Welcome to BigBasket clone, a responsive web application designed to simulate a seamless online grocery shopping experience. Built with a modern tech stack, this project focuses on user-centric features like smart cart recommendations, in-cart subscriptions, and one-click reordering to make grocery shopping fast and intuitive.
 
 ## 🚀 Live Demo
 
@@ -14,7 +14,7 @@ Check out the live version of the application here:
 
 *A vibrant screenshot of the main product page.*
 
-![BigBasket Lite Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_CODE.png)  <!-- 👈 **UPDATE THIS IMAGE** -->
+![BigBasket clone Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_CODE.png)  <!-- 👈 **UPDATE THIS IMAGE** -->
 
 > **Pro-tip:** To add your own screenshot, take a picture of your running application, then simply drag and drop the image file into the GitHub text editor where you are editing this README. It will automatically upload the image and generate a link for you.
 
