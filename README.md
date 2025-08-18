@@ -9,6 +9,11 @@ Welcome to BigBasket clone, a responsive web application designed to simulate a 
 
 *A vibrant screenshot of the main product page.*
 <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/e2872263-9b91-471c-ab66-75743af164cc" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/72ee47b4-907b-4461-9b18-91428718c795" />
+reminders and empty cart
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/0c01632f-ec7b-4a32-a019-b5fa7c2b029c" />
+cart with suggestions and subscriptions
+<img width="782" height="1199" alt="image" src="https://github.com/user-attachments/assets/efe39871-1cdd-40bf-9646-377fa156165b" />
 
 ---
 
