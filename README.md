@@ -8,8 +8,7 @@ Welcome to BigBasket clone, a responsive web application designed to simulate a 
 ## 📸 Screenshot
 
 *A vibrant screenshot of the main product page.*
-
-![BigBasket clone Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_CODE.png)  <!-- 👈 **UPDATE THIS IMAGE** -->
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/e2872263-9b91-471c-ab66-75743af164cc" />
 
 ---
 
