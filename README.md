@@ -16,8 +16,6 @@ Check out the live version of the application here:
 
 ![BigBasket clone Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_CODE.png)  <!-- 👈 **UPDATE THIS IMAGE** -->
 
-> **Pro-tip:** To add your own screenshot, take a picture of your running application, then simply drag and drop the image file into the GitHub text editor where you are editing this README. It will automatically upload the image and generate a link for you.
-
 ---
 
 ## ✨ Features
@@ -56,12 +54,12 @@ Make sure you have [Node.js](https://nodejs.org/) (version 18 or higher) and [np
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/rudraksh-sinha/ROOKIE_HACKERS_Omega5.0
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd your-repo-name
+    cd Big-basket-Main
     ```
 
 3.  **Install NPM packages:**
@@ -85,9 +83,3 @@ In the project directory, you can run:
 -   `npm run build`: Bundles the app for production to the `dist` folder.
 -   `npm run lint`: Lints the code for errors and style issues using ESLint.
 -   `npm run preview`: Serves the production build locally to preview it before deployment.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
