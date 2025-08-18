@@ -3,11 +3,6 @@
 
 Welcome to BigBasket clone, a responsive web application designed to simulate a seamless online grocery shopping experience. Built with a modern tech stack, this project focuses on user-centric features like smart cart recommendations, in-cart subscriptions, and one-click reordering to make grocery shopping fast and intuitive.
 
-## 🚀 Live Demo
-
-Check out the live version of the application here:
-**[https://your-live-demo-url.com](https://your-live-demo-url.com)**  <!-- 👈 **UPDATE THIS LINK** -->
-
 ---
 
 ## 📸 Screenshot
